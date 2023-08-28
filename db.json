@@ -22,8 +22,8 @@
     "id": 3,
     "location": "Município de Luanda, Comuna de Ingombota",
     "name": "ATM-003",
-    "cash": 200000.0,
-    "coins": 75000.0,
+    "cash": 2000.0,
+    "coins": 7500.0,
     "systemStatus": "on",
     "integrity": 92
   },
