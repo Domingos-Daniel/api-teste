@@ -1,4 +1,5 @@
-[
+{
+  "atms":[
   {
     "id": 1,
     "location": "Município de Luanda, Comuna de Ingombota",
@@ -117,10 +118,22 @@
     "integrity": 80
   },
   {
-    "id": 14,
+  "id": 14,
+  "location": "Município de Luanda, Comuna da Maianga",
+  "name": "ATM-014",
+  "cash": 750000.0,
+  "coins": 30000.0,
+  "systemStatus": "on",
+  "integrity": 80
+},
+  {
+    "id": 15,
     "location": "Município de Luanda, Comuna do Rangel",
-    "name": "ATM-014",
+    "name": "ATM-015",
     "cash": 100000.0,
     "coins": 50000.0,
     "systemStatus": "on",
-    "integrity
+    "integrity": 93
+  }
+  ]
+    }
