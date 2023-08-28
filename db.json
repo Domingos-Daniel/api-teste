@@ -31,10 +31,10 @@
     "id": 4,
     "location": "Município de Luanda, Comuna de Ingombota",
     "name": "ATM-004",
-    "cash": 150000.0,
+    "cash": 1000.0,
     "coins": 75000.0,
     "systemStatus": "on",
-    "integrity": 92
+    "integrity": 15
   },
   {
     "id": 5,
