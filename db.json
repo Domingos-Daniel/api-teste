@@ -134,6 +134,16 @@
     "coins": 50000.0,
     "systemStatus": "on",
     "integrity": 93
+  },
+
+     {
+    "id": 16,
+    "location": "Município de Luanda, Comuna do Rangel",
+    "name": "ATM-016",
+    "cash": 1000000.0,
+    "coins": 50000.0,
+    "systemStatus": "of",
+    "integrity": 93
   }
   ]
     }
