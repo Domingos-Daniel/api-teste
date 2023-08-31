@@ -6,7 +6,7 @@
     "name": "ATM-001",
     "cash": 1500.0,
     "coins": 7500.0,
-    "systemStatus": "on",
+    "systemStatus": "of",
     "integrity": 23
   },
   {
@@ -49,9 +49,9 @@
     "id": 6,
     "location": "Município de Luanda, Comuna de Cacuaco",
     "name": "ATM-006",
-    "cash": 125000.0,
+    "cash": 12000.0,
     "coins": 60000.0,
-    "systemStatus": "on",
+    "systemStatus": "of",
     "integrity": 88
   },
   {
