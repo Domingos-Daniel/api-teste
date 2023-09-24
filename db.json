@@ -395,50 +395,6 @@
       "integrity": 23,
       "managerPhone": "+244949901350",
       "managerName": "David"
-    },
-    {
-      "id": 37,
-      "location": "Município de Luanda, Comuna de Ingombota",
-      "name": "ATM-037",
-      "cash": 170000.0,
-      "coins": 75000.0,
-      "systemStatus": "on",
-      "integrity": 92,
-      "managerPhone": "+244949901350",
-      "managerName": "Eva"
-    },
-    {
-      "id": 38,
-      "location": "Município de Luanda, Comuna de Ingombota",
-      "name": "ATM-038",
-      "cash": 2000.0,
-      "coins": 7500.0,
-      "systemStatus": "on",
-      "integrity": 92,
-      "managerPhone": "+244949901350",
-      "managerName": "Frank"
-    },
-    {
-      "id": 39,
-      "location": "Município de Luanda, Comuna de Ingombota",
-      "name": "ATM-039",
-      "cash": 1000.0,
-      "coins": 75000.0,
-      "systemStatus": "on",
-      "integrity": 15,
-      "managerPhone": "+244949901350",
-      "managerName": "Grace"
-    },
-    {
-      "id": 40,
-      "location": "Município de Luanda, Comuna de Kilamba Kiaxi",
-      "name": "ATM-040",
-      "cash": 100000.0,
-      "coins": 50000.0,
-      "systemStatus": "on",
-      "integrity": 95,
-      "managerPhone": "+244949901350",
-      "managerName": "Hank"
     }
   ]
 }
