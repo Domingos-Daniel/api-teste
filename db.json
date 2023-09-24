@@ -373,28 +373,6 @@
       "integrity": 93,
       "managerPhone": "+244949901350",
       "managerName": "Bob"
-    },
-    {
-      "id": 35,
-      "location": "Município de Luanda, Comuna do Rangel",
-      "name": "ATM-035",
-      "cash": 1000000.0,
-      "coins": 50000.0,
-      "systemStatus": "of",
-      "integrity": 93,
-      "managerPhone": "+244949901350",
-      "managerName": "Charlie"
-    },
-    {
-      "id": 36,
-      "location": "Município de Luanda, Comuna de Ingombota",
-      "name": "ATM-036",
-      "cash": 1500.0,
-      "coins": 7500.0,
-      "systemStatus": "of",
-      "integrity": 23,
-      "managerPhone": "+244949901350",
-      "managerName": "David"
     }
   ]
 }
