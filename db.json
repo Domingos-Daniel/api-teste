@@ -329,50 +329,6 @@
       "integrity": 80,
       "managerPhone": "+244949901350",
       "managerName": "Frank"
-    },
-    {
-      "id": 31,
-      "location": "Município de Luanda, Comuna do Sambizanga",
-      "name": "ATM-031",
-      "cash": 100000.0,
-      "coins": 50000.0,
-      "systemStatus": "on",
-      "integrity": 95,
-      "managerPhone": "+244949901350",
-      "managerName": "Grace"
-    },
-    {
-      "id": 32,
-      "location": "Município de Luanda, Comuna do Maianga",
-      "name": "ATM-032",
-      "cash": 125000.0,
-      "coins": 60000.0,
-      "systemStatus": "on",
-      "integrity": 88,
-      "managerPhone": "+244949901350",
-      "managerName": "Hank"
-    },
-    {
-      "id": 33,
-      "location": "Município de Luanda, Comuna do Maianga",
-      "name": "ATM-033",
-      "cash": 75000.0,
-      "coins": 30000.0,
-      "systemStatus": "on",
-      "integrity": 80,
-      "managerPhone": "+244949901350",
-      "managerName": "Alice"
-    },
-    {
-      "id": 34,
-      "location": "Município de Luanda, Comuna do Rangel",
-      "name": "ATM-034",
-      "cash": 100000.0,
-      "coins": 50000.0,
-      "systemStatus": "on",
-      "integrity": 93,
-      "managerPhone": "+244949901350",
-      "managerName": "Bob"
     }
   ]
 }
